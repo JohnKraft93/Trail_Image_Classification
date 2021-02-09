@@ -125,5 +125,6 @@ dmypy.json
 .pyre/
 
 .jpg
+.JPG
 .jpeg
 .zip
