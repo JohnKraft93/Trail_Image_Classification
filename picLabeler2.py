@@ -36,7 +36,7 @@ def setPicture():
     global image, img, imgLabel
     
     image = Image.open(images[0])
-    image = image.resize((500, 500), Image.ANTIALIAS)
+    image = image.resize((imgHeight, imgWidth), Image.ANTIALIAS)
         
     img = ImageTk.PhotoImage(image)
     
@@ -54,7 +54,7 @@ def nextPhoto():
         currentImg += 1
         print(images[currentImg])
         image = Image.open(images[currentImg])
-        image = image.resize((500, 500), Image.ANTIALIAS)
+        image = image.resize((imgHeight, imgWidth), Image.ANTIALIAS)
             
         img = ImageTk.PhotoImage(image)
 
@@ -72,7 +72,7 @@ def prevPhoto():
         currentImg -= 1
         print(images[currentImg])
         image = Image.open(images[currentImg])
-        image = image.resize((500, 500), Image.ANTIALIAS)
+        image = image.resize((imgHeight, imgWidth), Image.ANTIALIAS)
             
         img = ImageTk.PhotoImage(image)
         
@@ -108,7 +108,9 @@ def setDirectory():
 currentImg = 0
 currentDirectory = ""
 directorySet = False
-images = [] 
+images = []
+imgHeight = 500
+imgWidth = 500
 
 root = tk.Tk()
 title = tk.Label(text="label picture", width=120)
