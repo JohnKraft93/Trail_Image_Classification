@@ -109,8 +109,8 @@ currentImg = 0
 currentDirectory = ""
 directorySet = False
 images = []
-imgWidth = 1000
 imgHeight = 500
+imgWidth = 500
 
 root = tk.Tk()
 title = tk.Label(text="label picture", width=120)
