@@ -128,3 +128,4 @@ dmypy.json
 *.JPG
 *.jpeg
 *.zip
+*.xml
