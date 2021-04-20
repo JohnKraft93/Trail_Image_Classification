@@ -1,16 +1,24 @@
 item {
 	id: 1
-	name: 'person'
+	name: 'motorized'
 }
 item {
 	id: 2
-	name: 'dog'
+	name: 'nonMotorized'
 }
 item {
 	id: 3
-	name: 'snowMobile'
+	name: 'mechanical'
 }
 item {
 	id: 4
-	name: 'groomer'
+	name: 'hybrid'
+}
+item {
+	id: 5
+	name: 'vehicle'
+}
+item {
+	id: 6
+	name: dog'
 }
