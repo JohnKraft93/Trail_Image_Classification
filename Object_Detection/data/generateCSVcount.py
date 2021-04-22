@@ -3,7 +3,7 @@ import time
 
 try:
     with open(sys.argv[1], "r") as xmls:
-        with open("totals.csv", "w") as totals:
+        with open(sys.argv[2], "w") as totals:
             print("opened files successfully...")
 
             totals.write("fileName,Motorized,Non Motorized,Vehicle,Mechanical,Dog,Hybrid\n")
