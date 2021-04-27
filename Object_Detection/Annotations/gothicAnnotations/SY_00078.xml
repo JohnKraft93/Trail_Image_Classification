@@ -1,0 +1,38 @@
+<annotation>
+	<folder>12-31 to 1-3</folder>
+	<filename>SY_00078.JPG</filename>
+	<path>C:\Users\storm\Documents\2018-2019\gothic18-19\12-31 to 1-3\SY_00078.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1469</xmin>
+			<ymin>1094</ymin>
+			<xmax>1574</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>1107</ymin>
+			<xmax>1679</xmax>
+			<ymax>1252</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>12-31 to 1-3</folder>
+	<filename>SY_00099.JPG</filename>
+	<path>C:\Users\storm\Documents\2018-2019\cement18-19\12-31 to 1-3\SY_00099.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2265</xmin>
+			<ymin>1587</ymin>
+			<xmax>2448</xmax>
+			<ymax>2110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2493</xmin>
+			<ymin>1554</ymin>
+			<xmax>2718</xmax>
+			<ymax>2188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3436</xmin>
+			<ymin>1609</ymin>
+			<xmax>3927</xmax>
+			<ymax>2563</ymax>
+		</bndbox>
+	</object>
+</annotation>

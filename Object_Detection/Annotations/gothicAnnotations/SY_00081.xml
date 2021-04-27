@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12-31 to 1-3</folder>
+	<filename>SY_00081.JPG</filename>
+	<path>C:\Users\storm\Documents\2018-2019\gothic18-19\12-31 to 1-3\SY_00081.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mechanical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>1122</ymin>
+			<xmax>1565</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>

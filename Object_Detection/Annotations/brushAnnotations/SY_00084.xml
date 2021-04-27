@@ -1,0 +1,50 @@
+<annotation>
+	<folder>12-28 to 12-31</folder>
+	<filename>SY_00084.JPG</filename>
+	<path>C:\Users\storm\Documents\2018-2019\brush_18-19\12-28 to 12-31\SY_00084.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2674</xmin>
+			<ymin>1168</ymin>
+			<xmax>2756</xmax>
+			<ymax>1332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2738</xmin>
+			<ymin>809</ymin>
+			<xmax>2902</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2987</xmin>
+			<ymin>862</ymin>
+			<xmax>3256</xmax>
+			<ymax>1390</ymax>
+		</bndbox>
+	</object>
+</annotation>

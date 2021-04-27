@@ -1,0 +1,50 @@
+<annotation>
+	<folder>12-28 to 12-31</folder>
+	<filename>SY_00051.JPG</filename>
+	<path>C:\Users\storm\Documents\2018-2019\brush_18-19\12-28 to 12-31\SY_00051.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3034</xmin>
+			<ymin>875</ymin>
+			<xmax>3154</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3261</xmin>
+			<ymin>932</ymin>
+			<xmax>3328</xmax>
+			<ymax>1031</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nonMotorized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3369</xmin>
+			<ymin>939</ymin>
+			<xmax>3421</xmax>
+			<ymax>1012</ymax>
+		</bndbox>
+	</object>
+</annotation>
