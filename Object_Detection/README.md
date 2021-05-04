@@ -1,25 +1,45 @@
 This is the README file for object detection and all the necessary steps.
 
 Step 0: File Directory should look like this after 
+
 	~ data
+
 		- object-detection.pbtxt
+
 		- train.record
+
 		- test.record
+
 		- all_labels.csv
+
 		- train_label.csv
+
 		- test_label.csv
+
 	~ images
+
 		- unlabel images (.jpg files)
+
 	~ annotations
+
 		- labeled data (.xml files)
+
 	~ ssd_mobilenet_v1_coco_2018_01_28
+
 	        - pipeline.config
+
 	~ training
+
 		- ssd_mobilenet_v1_pets.config (You can use other config. files from TensorFlow)
+
 	- generate_tfrecord.py: Uses .csv file to produce .RECORD files (From TensorFlow)
+
 	- split_labels.IPYNB : Split data into training and testing data
+
 	- xml_to_cvs.py : Convert xml labeled data to a cvs file
+
 	- train.py : Get from tensorflow
+
 	- ModelTrainingOnColab.IPYNB
 
 
