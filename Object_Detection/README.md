@@ -57,6 +57,8 @@ Step 3: Convert annotation directory to all_labels.csv file with xml_to_csv.py
 Step 4: Split the all_label.csv file into a training and testing dataset with split_labels.IPYNB
 	This is where you'll produce train_labels.csv and test_labels.csv
 
+Step 4a: Need to chance the parameter that is set to how many image there are and how many object there are. 
+
 Step 5: Next it's time to generate the .record files with generate_tfrecord.py file. Necessary edits: command line options and
 	class_text_to_int defition to match all position object classes
 
