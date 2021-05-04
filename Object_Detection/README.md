@@ -104,7 +104,7 @@ Step 7: Must edit ssd_mobilenet_v1_pets.config
 
 Step 7: Train model using google colab with ModelTrainingOnColab.IPYNB.
 
-	Step 7a: Add all files in directory to TensorFlow models git repository and then upload repository to google drive.
+	Step 7a: Git clone models git repository (https://github.com/tensorflow/models.git). Then add all directories to TensorFlow models git repository and then upload repository to google drive. 
 
 	Step 7b: If you have already uploaded TensorFlow models git repository then you only need to upload your training and data directories.
 
