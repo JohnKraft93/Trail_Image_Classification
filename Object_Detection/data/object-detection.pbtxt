@@ -1,0 +1,24 @@
+item {
+	id: 1
+	name: 'motorized'
+}
+item {
+	id: 2
+	name: 'nonMotorized'
+}
+item {
+	id: 3
+	name: 'mechanical'
+}
+item {
+	id: 4
+	name: 'hybrid'
+}
+item {
+	id: 5
+	name: 'vehicle'
+}
+item {
+	id: 6
+	name: dog'
+}
